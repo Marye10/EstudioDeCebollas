@@ -1,0 +1,45 @@
+body
+{
+    margin: auto;
+    padding-top: 3%;
+    padding-left: 10px;
+    padding-bottom: 250px;
+    background-color: #f1f8b8;
+    font-family: 'Nunito', sans-serif;
+    color: black;
+
+}
+#pie
+{
+    font-size: x-small;
+    text-align: center;
+    padding-right: 10px;
+}
+#grafica
+{
+    height: 400px;
+    width: 300px;
+}
+#img
+{
+    display: inline;
+}
+.img
+{
+    display: block;
+    margin: auto;
+    padding: auto;
+    text-align: center;
+    border-radius: 100px;
+}
+#carta
+{
+    width: 500px;
+    padding-bottom: 1%;
+
+}
+#carta1
+{
+    display: inline;
+}
+
